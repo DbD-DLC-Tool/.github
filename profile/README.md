@@ -7,7 +7,7 @@
 
 ## 🔗 Latest Release of DBD DLC Unlocker
 
-- **💾 Version 5.0.0.5** – *Tool files & folders*  
+- 💾 Version 5.0.0.5** – *Tool files & folders*  
   👉 [The Latest Release]()
   
 
