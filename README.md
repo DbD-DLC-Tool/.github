@@ -1,6 +1,6 @@
 # Dead By Daylight DLC Unlocker
 
-**An easy and automatic tool that can unlock DLCs including chracters characters, skins, items & perks by utilizing a CreamAPI injection. Works on Steam and Epic Games versions of the game
+An easy and automatic tool that can unlock DLCs including chracters characters, skins, items & perks by utilizing a CreamAPI injection. Works on Steam and Epic Games versions of the game
 
 ---
 
