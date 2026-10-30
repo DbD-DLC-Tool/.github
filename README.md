@@ -7,8 +7,8 @@ An easy and automatic tool that can unlock DLCs including chracters characters, 
 
 ## 🔗 Latest Release of DBD DLC Unlocker
 
-- 💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+- 💾 Version 5.0.0.5 – *Tool files & folders*  
+  👉 [The Latest Release](https://github.com/DbD-DLC-Tool/.github/releases)
   
 
 ---
